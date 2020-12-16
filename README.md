@@ -1,1 +1,1 @@
-# Qiu
+# Repository for Fang Qiu workshop
